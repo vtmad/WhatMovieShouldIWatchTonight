@@ -1,4 +1,4 @@
 WhatMovieShouldIWatchTonight
 ============================
 
-Movie suggestion app
+Movie suggestion Android app
